@@ -201,7 +201,7 @@
 	</dependencies>
 	
 	<build>
-		<finalName>np-product</finalName>
+		<finalName>SpringCloudDemo</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
