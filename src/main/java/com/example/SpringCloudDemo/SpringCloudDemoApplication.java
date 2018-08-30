@@ -9,6 +9,6 @@ public class SpringCloudDemoApplication {
 	public static void main(String[] args) {
 		System.out.println("进来了");
 		SpringApplication.run(SpringCloudDemoApplication.class, args);
-		System.out.println("进来了");
+		System.out.println("进来了");  
 	}
 }
